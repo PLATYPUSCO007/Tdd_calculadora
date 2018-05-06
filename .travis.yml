@@ -1,9 +1,4 @@
-{
-  "os": "linux",
-  "dist": "trusty",
-  "group": "stable",
-  "language": "java"
-}
+language: java
 
 
   
