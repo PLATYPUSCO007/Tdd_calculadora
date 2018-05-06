@@ -1,8 +1,9 @@
-language: java
+{
+  "os": "linux",
+  "dist": "trusty",
+  "group": "stable",
+  "language": "java"
+}
 
-jdk:
-  - oraclejdk8
-  - oraclejdk9
-  - openjdk8
-  
+
   
