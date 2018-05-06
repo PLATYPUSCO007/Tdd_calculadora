@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/PLATYPUSCO007/eis-bitacora-20181c.svg?branch=master)](https://travis-ci.org/PLATYPUSCO007/eis-bitacora-20181c)
+[![Build Status](https://travis-ci.org/PLATYPUSCO007/Tdd_calculadora.svg?branch=master)](https://travis-ci.org/PLATYPUSCO007/Tdd_calculadora)
+
+
 
 # Calculadora TDD
 
